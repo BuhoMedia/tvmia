@@ -61,427 +61,108 @@
 
               <!-- Tab panes -->
               <div class="tab-content">
-                <div id="home" class="container tab-pane active"><br>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
+                <div id="home" class="container tab-pane active">
+                  <ul class="canalesimg">
+                    <li><img src="img/canales/1.png" alt=""></li>
+                    <li><img src="img/canales/2.png" alt=""></li>
+                    <li><img src="img/canales/3.png" alt=""></li>
+                    <li><img src="img/canales/4.png" alt=""></li>
+                    <li><img src="img/canales/5.png" alt=""></li>
+                    <li><img src="img/canales/6.png" alt=""></li>
+                    <li><img src="img/canales/7.png" alt=""></li>
+                    <li><img src="img/canales/8.png" alt=""></li>
+                    <li><img src="img/canales/9.png" alt=""></li>
+                    <li><img src="img/canales/10.png" alt=""></li>
+                    <li><img src="img/canales/11.png" alt=""></li>
+                    <li><img src="img/canales/12.png" alt=""></li>
+                    <li><img src="img/canales/1.png" alt=""></li>
+                    <li><img src="img/canales/2.png" alt=""></li>
+                    <li><img src="img/canales/3.png" alt=""></li>
+                    <li><img src="img/canales/4.png" alt=""></li>
+                    <li><img src="img/canales/5.png" alt=""></li>
+                    <li><img src="img/canales/6.png" alt=""></li>
+                    <li><img src="img/canales/7.png" alt=""></li>
+                    <li><img src="img/canales/8.png" alt=""></li>
+                    <li><img src="img/canales/9.png" alt=""></li>
+                    <li><img src="img/canales/10.png" alt=""></li>
+                    <li><img src="img/canales/11.png" alt=""></li>
+                    <li><img src="img/canales/12.png" alt=""></li>
+                    <li><img src="img/canales/1.png" alt=""></li>
+                    <li><img src="img/canales/2.png" alt=""></li>
+                    <li><img src="img/canales/3.png" alt=""></li>
+                    <li><img src="img/canales/4.png" alt=""></li>
+                    <li><img src="img/canales/5.png" alt=""></li>
+                    <li><img src="img/canales/6.png" alt=""></li>
+                    <li><img src="img/canales/7.png" alt=""></li>
+                    <li><img src="img/canales/8.png" alt=""></li>
+                    <li><img src="img/canales/9.png" alt=""></li>
+                    <li><img src="img/canales/10.png" alt=""></li>
+                    <li><img src="img/canales/11.png" alt=""></li>
+                    <li><img src="img/canales/12.png" alt=""></li>
+                    <li><img src="img/canales/1.png" alt=""></li>
+                    <li><img src="img/canales/2.png" alt=""></li>
+                    <li><img src="img/canales/3.png" alt=""></li>
+                    <li><img src="img/canales/4.png" alt=""></li>
+                    <li><img src="img/canales/5.png" alt=""></li>
+                    <li><img src="img/canales/6.png" alt=""></li>
+                    <li><img src="img/canales/7.png" alt=""></li>
+                    <li><img src="img/canales/8.png" alt=""></li>
+                    <li><img src="img/canales/9.png" alt=""></li>
+                    <li><img src="img/canales/10.png" alt=""></li>
+                    <li><img src="img/canales/11.png" alt=""></li>
+                    <li><img src="img/canales/12.png" alt=""></li>
+                  </ul>
                 </div>
-                <div id="menu1" class="container tab-pane fade"><br>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-lg-1">
-                      <img src="img/canales/1.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/2.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/3.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/4.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/5.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/6.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/7.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/8.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/9.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/10.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/11.png" alt="">
-                    </div>
-                    <div class="col-lg-1">
-                      <img src="img/canales/12.png" alt="">
-                    </div>
-                  </div>
+                <div id="menu1" class="container tab-pane fade"><ul class="canalesimg">
+                  <li><img src="img/canales/1.png" alt=""></li>
+                  <li><img src="img/canales/2.png" alt=""></li>
+                  <li><img src="img/canales/3.png" alt=""></li>
+                  <li><img src="img/canales/4.png" alt=""></li>
+                  <li><img src="img/canales/5.png" alt=""></li>
+                  <li><img src="img/canales/6.png" alt=""></li>
+                  <li><img src="img/canales/7.png" alt=""></li>
+                  <li><img src="img/canales/8.png" alt=""></li>
+                  <li><img src="img/canales/9.png" alt=""></li>
+                  <li><img src="img/canales/10.png" alt=""></li>
+                  <li><img src="img/canales/11.png" alt=""></li>
+                  <li><img src="img/canales/12.png" alt=""></li>
+                  <li><img src="img/canales/1.png" alt=""></li>
+                  <li><img src="img/canales/2.png" alt=""></li>
+                  <li><img src="img/canales/3.png" alt=""></li>
+                  <li><img src="img/canales/4.png" alt=""></li>
+                  <li><img src="img/canales/5.png" alt=""></li>
+                  <li><img src="img/canales/6.png" alt=""></li>
+                  <li><img src="img/canales/7.png" alt=""></li>
+                  <li><img src="img/canales/8.png" alt=""></li>
+                  <li><img src="img/canales/9.png" alt=""></li>
+                  <li><img src="img/canales/10.png" alt=""></li>
+                  <li><img src="img/canales/11.png" alt=""></li>
+                  <li><img src="img/canales/12.png" alt=""></li>
+                  <li><img src="img/canales/1.png" alt=""></li>
+                  <li><img src="img/canales/2.png" alt=""></li>
+                  <li><img src="img/canales/3.png" alt=""></li>
+                  <li><img src="img/canales/4.png" alt=""></li>
+                  <li><img src="img/canales/5.png" alt=""></li>
+                  <li><img src="img/canales/6.png" alt=""></li>
+                  <li><img src="img/canales/7.png" alt=""></li>
+                  <li><img src="img/canales/8.png" alt=""></li>
+                  <li><img src="img/canales/9.png" alt=""></li>
+                  <li><img src="img/canales/10.png" alt=""></li>
+                  <li><img src="img/canales/11.png" alt=""></li>
+                  <li><img src="img/canales/12.png" alt=""></li>
+                  <li><img src="img/canales/1.png" alt=""></li>
+                  <li><img src="img/canales/2.png" alt=""></li>
+                  <li><img src="img/canales/3.png" alt=""></li>
+                  <li><img src="img/canales/4.png" alt=""></li>
+                  <li><img src="img/canales/5.png" alt=""></li>
+                  <li><img src="img/canales/6.png" alt=""></li>
+                  <li><img src="img/canales/7.png" alt=""></li>
+                  <li><img src="img/canales/8.png" alt=""></li>
+                  <li><img src="img/canales/9.png" alt=""></li>
+                  <li><img src="img/canales/10.png" alt=""></li>
+                  <li><img src="img/canales/11.png" alt=""></li>
+                  <li><img src="img/canales/12.png" alt=""></li>
+                </ul>
                 </div>
                 <div id="menu2" class="container tab-pane fade"><br>
                   <div class="row">
@@ -605,19 +286,19 @@
         </div>
       </section>
 
-      <div class="bg-img-hero space-2" style="background-image: url(img/bgsec1.jpg);">
+      <div class="bg-img-hero space-2 hideresp" style="background-image: url(img/bgsec1.jpg);">
           <div class="container px-md-4">
               <div class="row">
                   <div class="col-lg-6 col-xl-5 space-1">
                       <div class="">
-                          <a href="../single-movies/single-movies-v4.html" class="display-8 h-w-primary d-inline-block font-secondary mb-6">Tus Programas Favoritos</a>
+                          <a href="../single-movies/single-movies-v4.html" class="display-8 h-w-primary d-inline-block font-secondary mb-6">Somos TVmia</a>
                           <p class="text-gray-1800 mb-6 font-secondary d-block font-size-1 font-weight-medium">Tv Mia quiere que te sientas como en tu casa y puedas ver la programación de todos los canales de aire de tu pais y la puedas compartir con los tuyos, estés donde estés.</p>
                           <div class="row">
                             <div class="col-lg-3 text-center">
                               <a href="#" class="button1">VER PLANES</a>
                             </div>
-                            <div class="col-lg-3 text-center">
-                              <a href="#" class="button2">+ INFO</a>
+                            <div class="col-lg-4 text-center">
+                              <a href="#" class="button2">PRUEBA GRATIS</a>
                             </div>
                           </div>
                       </div>
@@ -625,13 +306,47 @@
                   <div class="col-lg-6 col-xl-7 d-none d-lg-flex align-items-center justify-content-center">
                       <div class="">
                           <!-- Video -->
-                          <!-- <a class="js-fancybox btn btn-play d-flex align-items-center justify-content-center rounded-circle" href="javascript:;"
+                          <a style="position: relative; left: 200px;" class="js-fancybox btn btn-play d-flex align-items-center justify-content-center rounded-circle" href="javascript:;"
                               data-hs-fancybox-options='{
                                   "src": "//youtube.com/0qisGSwZym4",
                                   "speed": 700
                               }'>
                               <i class="fas fa-play text-primary"></i>
-                          </a> -->
+                          </a>
+                          <!-- End Video -->
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="bg-img-hero space-2 showresp  bgradiant5" >
+          <div class="container px-md-4">
+              <div class="row">
+                  <div class="col-lg-6 col-xl-5 space-1">
+                      <div class="">
+                          <a href="../single-movies/single-movies-v4.html" class="display-8 h-w-primary d-inline-block font-secondary mb-6">Somos TVmia</a>
+                          <p class="text-gray-1800 mb-6 font-secondary d-block font-size-1 font-weight-medium">Tv Mia quiere que te sientas como en tu casa y puedas ver la programación de todos los canales de aire de tu pais y la puedas compartir con los tuyos, estés donde estés.</p>
+                          <div class="row">
+                            <div class="col-lg-3 text-center">
+                              <a href="#" class="button1">VER PLANES</a>
+                            </div>
+                            <div class="col-lg-4 text-center">
+                              <a href="#" class="button2">PRUEBA GRATIS</a>
+                            </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-lg-6 col-xl-7 d-none d-lg-flex align-items-center justify-content-center">
+                      <div class="">
+                          <!-- Video -->
+                          <a style="position: relative; left: 200px;" class="js-fancybox btn btn-play d-flex align-items-center justify-content-center rounded-circle" href="javascript:;"
+                              data-hs-fancybox-options='{
+                                  "src": "//youtube.com/0qisGSwZym4",
+                                  "speed": 700
+                              }'>
+                              <i class="fas fa-play text-primary"></i>
+                          </a>
                           <!-- End Video -->
                       </div>
                   </div>
@@ -642,7 +357,8 @@
       <div class="space-2 bgradiant2 text-white">
           <div class="container mt-4">
               <div class="font-secondary text-center">
-                  <h1 class="display-6 mb-3 text-white">Miralo en todos tus Dispositivos</h1>
+                  <h1 class="display-6 mb-1 text-white">Miralo en todos tus Dispositivos</h1>
+                  <p>Los periodos de prueba gratis ya no te sorprenderán con un pago al final, nosotros te avisamos</p>
                   <img src="img/brands1.png" alt="">
               </div>
           </div>
@@ -684,7 +400,8 @@
             <div class="container my-md-3">
                 <div class="row text-center">
                     <div class="col-lg-12">
-                      <h1 class="display-6 mb-3 text-white">Una prueba gratis sin sorpresas</h1>
+                      <h1 class="display-6 mb-2 text-white">Una prueba gratis sin sorpresas</h1>
+                      <p class="text-white">Los periodos de prueba gratis ya no te sorprenderán con un pago al final, nosotros te avisamos</p>
                       <img src="img/progress.png" alt="">
                     </div>
                 </div>
@@ -692,7 +409,7 @@
         </div>
 
 
-        <section id="pricing" class="bgradiant3 space-2">
+        <section id="pricing" class="bgradiant5 space-2">
           <div class="container">
             <div class="font-secondary text-center space-1">
                 <h1 class="display-6 mb-3  text-white">Conoce Nuestros Planes</h1>
@@ -701,7 +418,7 @@
                 <div class="col-md text-center mb-6 mb-md-0">
                     <div class="font-secondary text-center space-1 bgbr">
                         <h3 class="font-size-26-re">Plan PC</h3>
-                        <p class="mb-2 font-size-16-r">Mas de 80 canales</p>
+                        <p class="mb-2 font-size-16-r">Mas de 200 canales</p>
                     </div>
                     <div class="font-secondary text-center space-1 bgbr mh">
                         <p class="mb-2 font-size-16-r">Incluye el contenido en vivo y en <br>

@@ -32961,10 +32961,6 @@ div#navBar {
     max-width: 800px;
 }
 
-.customwidth {
-    min-width: 295px;
-}
-
 
 .button1 {
     background: #f54616;
@@ -32995,9 +32991,11 @@ ul.nav.nav-tabs {
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: flex-end;
 }
 
+.tab-content {
+    background: white;
+}
 
 #canales {
     background: rgb(2,0,36);
@@ -33014,8 +33012,8 @@ ul.nav.nav-tabs {
 }
 
 .nav:not(.nav-pills) .nav-link.active {
-    background: #014da3;
-    color: #FFF;
+    background: #FFF;
+    color: #000;
     border-top: 2px solid #f54616;
 }
 
@@ -33049,6 +33047,12 @@ section#canales img {
   background: linear-gradient(90deg, rgba(96,32,210,1) 0%, rgba(61,82,235,1) 100%);
 }
 
+.bgradiant5{
+  background: rgb(1,77,163);
+  background: linear-gradient(90deg, rgba(1,77,163,1) 0%, rgba(12,124,194,1) 48%, rgba(1,77,163,1) 100%);
+}
+
+
 
 .bgbr {
     background: #FFF;
@@ -33064,4 +33068,47 @@ section#canales img {
 .bg-trans .card-header, .bg-trans .card {
     background-color: transparent !important;
     background: transparent !important;
+}
+
+.canalesimg {
+    padding: 0;
+}
+
+.canalesimg li {
+    width: 8.33%;
+    display: inline-block;
+    text-align: center;
+}
+
+.showresp{
+  display: none;
+}
+
+.hideresp{
+  display: inherit;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .canalesimg li {
+      width: 15.33%;
+      display: inline-block;
+      text-align: center;
+  }
+
+  .nav-tabs .nav-item {
+    margin-bottom: -0.0625rem;
+    width: 49%;
+    text-align: center;
+}
+
+.showresp{
+  display: block;
+}
+
+.hideresp{
+  display: none;
+}
+
+
 }

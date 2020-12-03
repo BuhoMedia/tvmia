@@ -40,31 +40,31 @@
                         <ul class="navbar-nav">
                             <!-- Home -->
                             <li class="hs-has-mega-menu navbar-nav-item">
-                                <a id="homeMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link nav-link-toggle font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Inicio</a>
+                                <a id="homeMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Inicio</a>
                             </li>
                             <!-- End Home -->
 
                             <!-- como funciona -->
                             <li class="hs-has-sub-menu navbar-nav-item">
-                                <a id="pagesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link nav-link-toggle font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">¿Cómo Funciona?</a>
+                                <a id="pagesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">¿Cómo Funciona?</a>
                             </li>
                             <!-- End como funciona -->
 
                             <!-- programacion -->
                             <li class="hs-has-mega-menu navbar-nav-item">
-                                <a id="moviesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link nav-link-toggle font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Programación</a>
+                                <a id="moviesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Programación</a>
                             </li>
                             <!-- End programacion -->
 
                             <!-- TV planes -->
                             <li class="hs-has-mega-menu navbar-nav-item">
-                                <a id="tvshowsMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link nav-link-toggle font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Planes</a>
+                                <a id="tvshowsMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Planes</a>
                             </li>
                             <!-- End planes -->
 
                             <!-- Contacto -->
                             <li class="hs-has-sub-menu navbar-nav-item">
-                                <a id="blogMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link nav-link-toggle font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contacto</a>
+                                <a id="blogMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contacto</a>
                             </li>
                             <!-- End Contacto -->
                         </ul>
@@ -75,7 +75,7 @@
                 <div class="d-flex align-items-center ml-auto ">
                     <div class="d-inline-flex">
                         <ul class="d-flex list-unstyled mb-0 align-items-center customwidth">
-                            <li class="col pl-0 d-none d-xl-block">
+                            <li class="d-none">
                                 <a href="#" class="d-flex nav-link">
                                     <span class="text-white">Prueba Gratis</span>
                                 </a>
