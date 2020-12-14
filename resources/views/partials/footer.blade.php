@@ -11,17 +11,17 @@
 
                 <div class="col-lg-6 text-center my-4 my-lg-0">
                     <ul class="nav justify-content-center font-secondary">
+                      <li class="nav-item">
+                          <a class="nav-link h-w-primary" href="#canales">Programación</a>
+                      </li>
                         <li class="nav-item">
-                            <a class="nav-link h-w-primary" href="../static/contact.html"> Como Funciona </a>
+                            <a class="nav-link h-w-primary" href="#como"> Como Funciona </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link h-w-primary" href="../static/contact.html">Programación</a>
+                            <a class="nav-link h-w-primary" href="#pricing">Planes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link h-w-primary" href="../static/contact.html">Planes</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link h-w-primary" href="../static/contact.html">Contacto</a>
+                            <a class="nav-link h-w-primary" href="#contacto">Contacto</a>
                         </li>
                     </ul>
                 </div>

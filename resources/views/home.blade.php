@@ -354,7 +354,7 @@
           </div>
       </div>
 
-      <div class="space-2 bgradiant2 text-white">
+      <div class="space-2 bgradiant2 text-white" id="como">
           <div class="container mt-4">
               <div class="font-secondary text-center">
                   <h1 class="display-6 mb-1 text-white">Miralo en todos tus Dispositivos</h1>
@@ -618,7 +618,7 @@ La antena de tu país la conectamos a un convertidor (también tuyo) y te enviam
             </div>
         </div>
 
-        <div class="space-bottom-1 space-2 bgradiant4 text-white">
+        <div class="space-bottom-1 space-2 bgradiant4 text-white" id="contacto">
             <div class="container px-md-5 pb-lg-6">
                 <div class="row">
                     <div class="col-lg-6">

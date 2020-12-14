@@ -44,27 +44,27 @@
                             </li>
                             <!-- End Home -->
 
-                            <!-- como funciona -->
-                            <li class="hs-has-sub-menu navbar-nav-item">
-                                <a id="pagesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">¿Cómo Funciona?</a>
-                            </li>
-                            <!-- End como funciona -->
-
                             <!-- programacion -->
                             <li class="hs-has-mega-menu navbar-nav-item">
-                                <a id="moviesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Programación</a>
+                                <a id="moviesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="#canales" aria-haspopup="true" aria-expanded="false">Programación</a>
                             </li>
                             <!-- End programacion -->
 
+                            <!-- como funciona -->
+                            <li class="hs-has-sub-menu navbar-nav-item">
+                                <a id="pagesMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="#como" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">¿Cómo Funciona?</a>
+                            </li>
+                            <!-- End como funciona -->
+
                             <!-- TV planes -->
                             <li class="hs-has-mega-menu navbar-nav-item">
-                                <a id="tvshowsMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false">Planes</a>
+                                <a id="tvshowsMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="#pricing" aria-haspopup="true" aria-expanded="false">Planes</a>
                             </li>
                             <!-- End planes -->
 
                             <!-- Contacto -->
                             <li class="hs-has-sub-menu navbar-nav-item">
-                                <a id="blogMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contacto</a>
+                                <a id="blogMegaMenu" class="hs-mega-menu-invoker py-xl-3d line-height-lg nav-link  font-secondary" href="#contacto" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contacto</a>
                             </li>
                             <!-- End Contacto -->
                         </ul>
