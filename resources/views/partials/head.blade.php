@@ -1,6 +1,6 @@
 <head>
     <!-- Title -->
-    <title>Landing Page | Vodi - Responsive Website Template</title>
+    <title>TvMia.</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">

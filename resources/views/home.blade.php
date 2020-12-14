@@ -15,15 +15,15 @@
                       <div class="container px-md-6">
                           <div class="max-w-500 space-top-3">
                               <div class="pt-2 mt-1">
-                                  <h6 class="product--title display-9 text-lh-1dot15 mb-0">
-                                      <a href="../single-video/single-video-v3.html">Te conectamos con tus programas preferidos </a>
+                                  <h6 class="product--title display-9 text-lh-1dot15 mb-0" style="color: white">
+                                      Te conectamos con tus programas preferidos
                                   </h6>
                                   <div class="row">
                                     <div class="col-lg-3 text-center">
-                                      <a href="#" class="button1">VER PLANES</a>
+                                      <a href="#pricing" class="button1">VER PLANES</a>
                                     </div>
                                     <div class="col-lg-3 text-center">
-                                      <a href="#" class="button2">+ INFO</a>
+                                      <a href="#quetvmia" class="button2">+ INFO</a>
                                     </div>
                                   </div>
                               </div>
@@ -43,19 +43,19 @@
               <!-- Nav tabs -->
               <ul class="nav nav-tabs" role="tablist">
                 <li class="nav-item">
-                  <a class="nav-link active" data-toggle="tab" href="#home">TODOS</a>
+                  <a class="nav-link active" data-toggle="tab" href="#home">ARGENTINA</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#menu1">ARGENTINA</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#menu2">COLOMBIA</a>
+                  <a class="nav-link" data-toggle="tab" href="#menu1">COLOMBIA</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu2">PERÚ</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu2">ESPAÑA</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#menu2">TODOS</a>
                 </li>
               </ul>
 
@@ -286,7 +286,7 @@
         </div>
       </section>
 
-      <div class="bg-img-hero space-2 hideresp" style="background-image: url(img/bgsec1.jpg);">
+      <div class="bg-img-hero space-2 hideresp" id="quetvmia" style="background-image: url(img/bgsec1.jpg);">
           <div class="container px-md-4">
               <div class="row">
                   <div class="col-lg-6 col-xl-5 space-1">
@@ -295,7 +295,7 @@
                           <p class="text-gray-1800 mb-6 font-secondary d-block font-size-1 font-weight-medium">Tv Mia quiere que te sientas como en tu casa y puedas ver la programación de todos los canales de aire de tu pais y la puedas compartir con los tuyos, estés donde estés.</p>
                           <div class="row">
                             <div class="col-lg-3 text-center">
-                              <a href="#" class="button1">VER PLANES</a>
+                              <a href="#pricing" class="button1">VER PLANES</a>
                             </div>
                             <div class="col-lg-4 text-center">
                               <a href="#" class="button2">PRUEBA GRATIS</a>
@@ -329,7 +329,7 @@
                           <p class="text-gray-1800 mb-6 font-secondary d-block font-size-1 font-weight-medium">Tv Mia quiere que te sientas como en tu casa y puedas ver la programación de todos los canales de aire de tu pais y la puedas compartir con los tuyos, estés donde estés.</p>
                           <div class="row">
                             <div class="col-lg-3 text-center">
-                              <a href="#" class="button1">VER PLANES</a>
+                              <a href="#pricing" class="button1">VER PLANES</a>
                             </div>
                             <div class="col-lg-4 text-center">
                               <a href="#" class="button2">PRUEBA GRATIS</a>
@@ -365,14 +365,19 @@
           <div class="js-slick-carousel"
               data-hs-slick-carousel-options='{
                  "dots": true,
-                 "dotsClass": "slick-pagination slick-pagination-v1 mt-n5"
+                 "dotsClass": "slick-pagination slick-pagination-v1 mt-n5",
+                 "infinite": true
                }'>
               <div class="js-slide">
-                  <div style="background-image: url(img/dispsl1.png); height: 500px;">
+                  <div style="background-image: url(img/dispsl1.png); height: 500px;background-position: center">
                   </div>
               </div>
               <div class="js-slide">
-                  <div style="background-image: url(img/dispsl2.png); height: 500px;">
+                  <div style="background-image: url(img/dispsl2.png); height: 500px;background-position: center">
+                  </div>
+              </div>
+              <div class="js-slide">
+                  <div style="background-image: url(img/dispsl3.png); height: 500px;background-position: center">
                   </div>
               </div>
           </div>
@@ -436,7 +441,7 @@
                     </div>
                     <div class="font-secondary text-center space-1 bgbr mh">
                         <p class="mb-2 font-size-16-r">Incluye el contenido en vivo y en<br>
-                          Más de 80 canales!!!<br>
+                          Más de 200 canales!!!<br>
                             Incluye el contenido en vivo y en directo de los canales de:Argentina, Colombia, España, Perú, República Dominicana y nuevos canales de<br>
                             Entretenimiento<br>
                             Además puede ver el servicio también en su PC, tableta o teléfono inteligente.</p>
@@ -450,7 +455,7 @@
                         <p class="mb-2 font-size-16-r">Acceso ilimitado</p>
                     </div>
                     <div class="font-secondary text-center space-1 bgbr mh">
-                        <p class="mb-2 font-size-16-r">Más de 80 canales!!!<br>
+                        <p class="mb-2 font-size-16-r">Más de 200 canales!!!<br>
                           Incluye el contenido en vivo y en directo de los canales de:Argentina, Colombia, España, Perú, República Dominicana y nuevos canales de<br>
                           Entretenimiento<br>
                           Además puede ver el servicio también en su PC, tableta o teléfono inteligente.</p>
@@ -495,7 +500,10 @@
                             aria-labelledby="basicsHeadingOne"
                             data-parent="#basicsAccordion">
                             <div class="card-body px-md-14 pb-6d pt-0 mx-md-3 text-gray-7000">
-                                What forms of payment do you accept for VodiPremium?
+                              ¡Llevamos la televisión de aire de tu país en VIVO y en HD para verla donde más te guste!! <br>
+                                No debes modificar nada en tu casa, no debes contratar nada nuevo, no debes cambiar nada en tu actual servicio de cable o satélite. <br> ¡Te suscribes y quedas viendo!! <br>
+                                Además tendrás 30 días de prueba: SI NO TE GUSTA NO PAGAS <br>
+                                ¡YA PUEDES VER EN TUS PROPIOS EQUIPOS!! <br>
                             </div>
                         </div>
                     </div>
@@ -509,7 +517,7 @@
                                 data-target="#basicsCollapseTwo"
                                 aria-expanded="false"
                                 aria-controls="basicsCollapseTwo">
-                                ¿Cuáles son concretamente los productos o servicios ofrecidos?
+                                ¿Puedo verlo en todos los dispositivos?
 
                                 <span class="card-btn-toggle order-n1 mr-md-8 mr-3">
                                     <span class="card-btn-toggle-default">
@@ -529,7 +537,8 @@
                             aria-labelledby="basicsHeadingTwo"
                             data-parent="#basicsAccordion">
                             <div class="card-body px-md-14 pb-6d pt-0 mx-md-3 text-gray-7000">
-                              Ofrecemos la Caja con TVmia dando el acceso a toda nuestra programación que incluye Canales en Vivo y en Directo por país (Argentina, Colombia y Perú), entretenimiento para adultos, canales de interés general, películas, series varias y más de 500 canales adicionales. El costo es de US$20 por mes (más TAX). La caja la entregamos por solo US$ 60, cantidad que incluye el envío dentro de los Estados Unidos. Para todos aquellos que no deseen adquirir esta caja conversora, brindamos solamente la versión WEB, con acceso a la misma programación a través de PC, Mac, iPad e iPhone.
+                              ¡YA PUEDES VER EN TUS PROPIOS EQUIPOS!! <br>
+Inmediatamente quedarás habilitado para ver en tus propios equipos los canales legales y gratuitamente de tu país, <br> ya sea con el conversor a tu TV, en tu tablet, PC, Mac o Teléfono.
                             </div>
                         </div>
                     </div>
@@ -543,7 +552,7 @@
                                 data-target="#basicsCollapseThree"
                                 aria-expanded="false"
                                 aria-controls="basicsCollapseThree">
-                                ¿Porqué contratar con TVmia con tanto disponible en la Internet y gratuito?
+                                ¿Cómo funciona?
 
                                 <span class="card-btn-toggle order-n1 mr-md-8 mr-3">
                                     <span class="card-btn-toggle-default">
@@ -563,7 +572,8 @@
                             aria-labelledby="basicsHeadingThree"
                             data-parent="#basicsAccordion">
                             <div class="card-body px-md-14 pb-6d pt-0 mx-md-3 text-gray-7000">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                              Hemos instalado en tu país tu propia antena HD para recepcionar la programación legal y gratuita de todos tus canales. <br>
+La antena de tu país la conectamos a un convertidor (también tuyo) y te enviamos la señal en vivo por internet
                             </div>
                         </div>
                     </div>
@@ -577,7 +587,7 @@
                                 data-target="#basicsCollapseFour"
                                 aria-expanded="false"
                                 aria-controls="basicsCollapseFour">
-                                ¿Cómo me entero de los cambios o nuevos productos que se anuncien?
+                                ¿Qué cobramos?
 
                                 <span class="card-btn-toggle order-n1 mr-md-8 mr-3">
                                     <span class="card-btn-toggle-default">
@@ -597,7 +607,8 @@
                             aria-labelledby="basicsHeadingFour"
                             data-parent="#basicsAccordion">
                             <div class="card-body px-md-14 pb-6d pt-0 mx-md-3 text-gray-7000">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                              Cobramos en la mensualidad el pago de tu equipo y el uso de internet. <br>
+                                No cobramos por los canales
                             </div>
                         </div>
                     </div>
@@ -762,4 +773,5 @@ var megaMenu = new HSMegaMenu($('.js-mega-menu'), {
 // initialization of unfold
 var unfold = new HSUnfold('.js-hs-unfold-invoker').init();
 </script>
+
 @endsection
