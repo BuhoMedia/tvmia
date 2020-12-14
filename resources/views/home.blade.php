@@ -644,6 +644,19 @@ La antena de tu país la conectamos a un convertidor (también tuyo) y te enviam
                                     <!-- Input -->
                                     <div class="col-sm-6 mb-3">
                                       <div class="js-form-message">
+                                        <label class="input-label font-size-15 font-weight-medium font-size-15 font-weight-medium text-white">
+                                          Apellido
+                                        </label>
+
+                                        <input type="text" class="form-control rounded-0" name="name" placeholder="" aria-label="Jeff Fisher" required
+                                               data-msg="Please enter your name.">
+                                      </div>
+                                    </div>
+                                    <!-- End Input -->
+
+                                    <!-- Input -->
+                                    <div class="col-sm-6 mb-3">
+                                      <div class="js-form-message">
                                         <label class="input-label font-size-15 font-weight-medium  text-white">
                                           Mail
                                         </label>
@@ -654,6 +667,50 @@ La antena de tu país la conectamos a un convertidor (también tuyo) y te enviam
                                     </div>
                                     <!-- End Input -->
 
+                                    <!-- Input -->
+                                    <div class="col-sm-6 mb-3">
+                                      <div class="js-form-message">
+                                        <label class="input-label font-size-15 font-weight-medium font-size-15 font-weight-medium text-white">
+                                          Teléfono
+                                        </label>
+
+                                        <input type="text" class="form-control rounded-0" name="name" placeholder="" aria-label="Jeff Fisher" required
+                                               data-msg="Please enter your name.">
+                                      </div>
+                                    </div>
+                                    <!-- End Input -->
+                                    <!-- Input -->
+                                    <div class="col-sm-12 mb-3">
+                                      <div class="js-form-message">
+                                        <label class="input-label font-size-15 font-weight-medium font-size-15 font-weight-medium text-white">
+                                          País
+                                        </label>
+                                        <select class="form-control" name="">
+                                          <option value="Argentina">Argentina</option>
+                                          <option value="Bolivia">Bolivia</option>
+                                          <option value="Chile">Chile</option>
+                                          <option value="Colombia">Colombia</option>
+                                          <option value="Costa Rica">Costa Rica</option>
+                                          <option value="Cuba">Cuba</option>
+                                          <option value="Ecuador">Ecuador</option>
+                                          <option value="El Salvador">El Salvador</option>
+                                          <option value="Guatemala">Guatemala</option>
+                                          <option value="Honduras">Honduras</option>
+                                          <option value="México">México</option>
+                                          <option value="Nicaragua">Nicaragua</option>
+                                          <option value="Panamá">Panamá</option>
+                                          <option value="Paraguay">Paraguay</option>
+                                          <option value="Perú">Perú</option>
+                                          <option value="Puerto Rico">Puerto Rico</option>
+                                          <option value="República Dominicana">República Dominicana</option>
+                                          <option value="Uruguay">Uruguay</option>
+                                          <option value="Venezuela">Venezuela</option>
+                                          <option value="España">España</option>
+                                          <option value="Guinea Ecuatorial">Guinea Ecuatorial</option>
+                                        </select>
+                                      </div>
+                                    </div>
+                                    <!-- End Input -->
                                     <!-- Input -->
                                     <div class="col-sm-12 mb-3">
                                       <div class="js-form-message">
