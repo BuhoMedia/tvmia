@@ -52,13 +52,13 @@
                   <a class="nav-link" data-toggle="tab" href="#menu2">PERÚ</a>
                 </li>
                 <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#menu5">REPÚBLICA DOMINICANA</a>
+                </li>
+                <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu3">ESPAÑA</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu4">ENTRETENIMIENTO</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" data-toggle="tab" href="#menu5">REPÚBLICA DOMINICANA</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu6">TODOS</a>
