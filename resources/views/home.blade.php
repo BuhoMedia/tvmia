@@ -51,11 +51,14 @@
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu2">PERÚ</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu5">REPÚBLICA DOMINICANA</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu3">ESPAÑA</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#menu7">VENEZUELA</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" data-toggle="tab" href="#menu4">ENTRETENIMIENTO</a>
@@ -162,7 +165,7 @@
                 <li><img src="img/canales/IMG_52.png"></li>
               </ul>
           </div>
-          <div id="menu5" class="container tab-pane fade">
+          <!-- <div id="menu5" class="container tab-pane fade">
             <ul class="canalesimg">
               <li><img src="img/canales/IMG_74.png"></li>
               <li><img src="img/canales/IMG_75.png"></li>
@@ -194,7 +197,7 @@
               <li><img src="img/canales/IMG_101.png"></li>
               <li><img src="img/canales/IMG_103.png"></li>
             </ul>
-        </div>
+        </div> -->
         <div id="menu6" class="container tab-pane fade">
           <ul class="canalesimg">
             <li><img src="img/canales/IMG.png"></li>
@@ -307,6 +310,29 @@
             <li><img src="img/canales/IMG_107.png"></li>
           </ul>
       </div>
+      <div id="menu7" class="container tab-pane fade">
+        <ul class="canalesimg">
+          <li><img src="img/canales/IMG_108.png"></li>
+          <li><img src="img/canales/IMG_109.png"></li>
+          <li><img src="img/canales/IMG_110.png"></li>
+          <li><img src="img/canales/IMG_111.png"></li>
+          <li><img src="img/canales/IMG_112.png"></li>
+          <li><img src="img/canales/IMG_113.png"></li>
+          <li><img src="img/canales/IMG_114.png"></li>
+          <li><img src="img/canales/IMG_115.png"></li>
+          <li><img src="img/canales/IMG_116.png"></li>
+          <li><img src="img/canales/IMG_117.png"></li>
+          <li><img src="img/canales/IMG_118.png"></li>
+          <li><img src="img/canales/IMG_119.png"></li>
+          <li><img src="img/canales/IMG_120.png"></li>
+          <li><img src="img/canales/IMG_121.png"></li>
+          <li><img src="img/canales/IMG_122.png"></li>
+          <li><img src="img/canales/IMG_123.png"></li>
+          <li><img src="img/canales/IMG_124.png"></li>
+          <li><img src="img/canales/IMG_125.png"></li>
+          <li><img src="img/canales/IMG_126.png"></li>
+        </ul>
+    </div>
             </div>
           </div>
         </div>
@@ -528,7 +554,7 @@
                             <div class="card-body px-md-14 pb-6d pt-0 mx-md-3 text-gray-7000">
                               ¡Llevamos la televisión de aire de tu país en VIVO y en HD para verla donde más te guste!! <br>
                                 No debes modificar nada en tu casa, no debes contratar nada nuevo, no debes cambiar nada en tu actual servicio de cable o satélite. <br> ¡Te suscribes y quedas viendo!! <br>
-                                Además tendrás 30 días de prueba: SI NO TE GUSTA NO PAGAS <br>
+                                Además tendrás 10 días de prueba: SI NO TE GUSTA NO PAGAS <br>
                                 ¡YA PUEDES VER EN TUS PROPIOS EQUIPOS!! <br>
                             </div>
                         </div>
