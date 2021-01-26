@@ -801,59 +801,29 @@ La antena de tu país la conectamos a un convertidor (también tuyo) y te enviam
                     </div>
                     <div class="col-lg-6 space-2">
                         <div class="row space-1">
-                            <div class="col-lg-4 text-white text-center">
+                            <div class="col-lg-6 text-white text-center space-1">
                               USA, Canada, Puerto Rico <br>
-                              1-888-918-8642
+                              +3073120148
                             </div>
-                            <div class="col-lg-4 text-white text-center">
+                            <div class="col-lg-6 text-white text-center space-1">
                               Sao Paolo, Brasil <br>
                               +551131975023
                             </div>
-                            <div class="col-lg-4 text-white text-center">
-                              Broward, USA <br>
-                              +19545102161
-                            </div>
-                        </div>
-                        <div class="row  space-1">
-                            <div class="col-lg-4 text-white text-center">
+                            <div class="col-lg-6 text-white text-center space-1">
                               Quebec, Canada <br>
                               +15798838726
                             </div>
-                            <div class="col-lg-4 text-white text-center">
-                              National, Hong Kong <br>
-                              +85258036417
-                            </div>
-                            <div class="col-lg-4 text-white text-center">
-                              Wyoming, USA<br>
-                              +13073120148
-                            </div>
-                        </div>
-                        <div class="row  space-1">
-                            <div class="col-lg-4 text-white text-center">
+                            <div class="col-lg-6 text-white text-center space-1">
                               Mexico City, Mexico <br>
-+525511638641
+                              +525511638641
                             </div>
-                            <div class="col-lg-4 text-white text-center">
-                              Tel Aviv, Israel <br>
-+97233728042
-                            </div>
-                            <div class="col-lg-4 text-white text-center">
-                              Los Angeles CA, USA <br>
-+12134411682
-                            </div>
-                        </div>
-                        <div class="row  space-1">
-                            <div class="col-lg-4 text-white text-center">
+                            <div class="col-lg-6 text-white text-center space-1">
                               Madrid, España <br>
-+34911233761
+                              +34911233761
                             </div>
-                            <div class="col-lg-4 text-white text-center">
-                              Buenos Aires, Argentina <br>
-+541151991193
-                            </div>
-                            <div class="col-lg-4 text-white text-center">
-                              Email <br>
-consulta@tvmia.com
+                            <div class="col-lg-6 text-white text-center space-1">
+                              Tel Aviv, Israel <br>
+                              +97233728042
                             </div>
                         </div>
                     </div>
